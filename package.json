@@ -1,0 +1,17 @@
+{
+  "author": "Thomas Leen <tl@thomasleen.com>",
+  "name" : "travesty",
+  "description" : "An example travis CI project (using Node)",
+  "version" : "0.0.0",
+  "homepage" : "https://github.com/tleen/travesty",
+  "license" : "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/tleen/travesty.git"
+  },
+  "engines" : {
+    "node" : ">= 0.10"
+  },
+  "dependencies" : {},
+  "devDependencies" : {}
+}
