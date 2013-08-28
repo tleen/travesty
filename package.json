@@ -14,5 +14,10 @@
   },
   "main" : "./lib/main.js",
   "dependencies" : {},
-  "devDependencies" : {}
+  "devDependencies" : {
+    "jasmine-node" : "1.11"
+  },
+  "scripts" : {
+    "test" : "node node_modules/jasmine-node/bin/jasmine-node spec"
+  }
 }
